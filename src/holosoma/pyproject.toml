@@ -34,7 +34,7 @@ dependencies = [
     "rich",
     "scipy",
     "shapely",
-    "smart_open[s3]",
+    "smart_open",
     "tensorboard",
     "tensordict",
     "termcolor",
